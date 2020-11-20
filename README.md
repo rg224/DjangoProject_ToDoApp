@@ -1,1 +1,1 @@
-# DjangoProject_ToDoApp
+It is Django based ToDo App
